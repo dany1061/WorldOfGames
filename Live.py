@@ -46,3 +46,4 @@ def load_game():
         GuessGame.play(difficulty)
     elif gameNum == 3:
         CurrencyRoulette.play(difficulty)
+
